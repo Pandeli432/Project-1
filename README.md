@@ -7,7 +7,7 @@ The purpose of this project/study has been to look at student surveys that were 
   3. What is the distribution of which classes they wish to take.
   4. The distribution of 'some impact' and 'high impact' for the question 'To what extent did the following activities or experience impact your decision to enroll in a computing course at CCM?'
 
-For this project we had 4 data files from non-majors. Each data file was from a given year starting with 2020 and ending with 2024. The data files were then combined into one large data file "final_df" consisting of
+For this project we had 4 data files from non-majors. Each data file was from a given year starting with 2020 and ending with 2024 (df_20-df_24). The data files were then combined into one large data file "final_df" consisting of
 776 entries. Depending on the question, either only the final_df file was used or the question was asked for each year.
 
 For the first question I decided to create bar charts for every year as I was curious to see how the interest level has changed over times as it can be indiccative of student's interest in computing over time. 
